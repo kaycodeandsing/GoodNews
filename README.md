@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GoodNews
 
 This cool web app will have you smiling with goodness.
@@ -8,3 +9,6 @@ the user can favorite their favorite articles and they can switch between good n
 
 app to be deployed using netlify.
 
+=======
+# BadNews
+>>>>>>> bd902858ab5e2b50b39d13c68355b92c607faba0
